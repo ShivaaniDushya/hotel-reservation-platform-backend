@@ -1,12 +1,12 @@
-# research-project-management-tool-backend
-Backend of a system, which has the capability of managing the Research projects and automating certain tasks.
+# hotel-reservation-platform-backend
+Backend of a system, which has the capability of managing the hotel reservation and automating certain tasks.
 
 ## ✨Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/Zero-Grp/research-project-management-tool-backend.git
+  git clone https://github.com/Zero-Grp/hotel-reservation-platform-backend.git
 ```
 
 Install dependencies
